@@ -28,3 +28,7 @@ So I will try by USB and the default nvme.
 Raspberry Pi NVMe SSD Kit  
 [![image](https://github.com/user-attachments/assets/06b473e2-53cd-4711-92f7-0f49f526f842)](https://www.raspberrypi.com/products/ssd/)  
 https://www.raspberrypi.com/products/ssd/  
+
+[![image](https://github.com/user-attachments/assets/2dabd2b9-49a6-44c7-9896-c62ece604edb)](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)  
+https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf  
+
