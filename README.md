@@ -1,5 +1,14 @@
-# HelloRaspberryPiDevKitCM5
-Just some note on the CM5 as I am lost almost immediatly with the SD CARD
+# Hello Raspberry Pi Dev Kit CM 5
+  
+I bought 4 Dev kit to use with kids/students and server(s) when not used.  
+I through it would be plug and play but as soon as I arrived SD Card was disable.  
+So let's gather documentation and share where I stuck here.  
+  
+
+
+
+https://www.raspberrypi.com/products/cm5-dev-kit/
+[![image](https://github.com/user-attachments/assets/cf1da926-7616-4860-a202-d432cf385732)](https://www.raspberrypi.com/products/cm5-dev-kit/)
 
 
 Manual: https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf
