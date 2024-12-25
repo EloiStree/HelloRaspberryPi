@@ -59,6 +59,9 @@ Here’s what I used:
 [![image](https://github.com/user-attachments/assets/2dabd2b9-49a6-44c7-9896-c62ece604edb)](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)  
 [CM5 Datasheet](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)  
 
+
+[![image](https://github.com/user-attachments/assets/6abac494-3ebf-454f-a0be-78ae71dc0143)](https://www.youtube.com/watch?v=X4blR5Ua3S0&lc=UgybAoAYEaAPZcc1ATB4AaABAg)  
+https://www.youtube.com/watch?v=X4blR5Ua3S0&lc=UgybAoAYEaAPZcc1ATB4AaABAg  
 ---
 
 #### **What You’ll Need**
