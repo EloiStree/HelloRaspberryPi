@@ -70,3 +70,14 @@ To install from Pi Imager onto an SSD, you’ll need an NVMe reader.
 Here’s an example of what I used:  
 [![image](https://github.com/user-attachments/assets/cbb1fc00-6b7d-4557-92a9-05a62b45327b)](https://amzn.to/49QPcwA)  
 [Buy an NVMe Reader on Amazon](https://amzn.to/49QPcwA)  
+
+
+
+
+## Note to try: Student vs Server
+
+As you can choose on what to boot first, you can put the 256 Go for using on Desktop.  
+Then use USB and SD Card (if unlock) to host server when not used.  
+( Saying that because my server don't use a lot's of read/write file.   )
+
+
