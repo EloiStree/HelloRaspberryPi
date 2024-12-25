@@ -7,12 +7,12 @@ So let's gather documentation and share where I stuck here.
 
 
 
-https://www.raspberrypi.com/products/cm5-dev-kit/
-[![image](https://github.com/user-attachments/assets/cf1da926-7616-4860-a202-d432cf385732)](https://www.raspberrypi.com/products/cm5-dev-kit/)
 
+[![image](https://github.com/user-attachments/assets/cf1da926-7616-4860-a202-d432cf385732)](https://www.raspberrypi.com/products/cm5-dev-kit/)  
+https://www.raspberrypi.com/products/cm5-dev-kit/  
 
-Manual: https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf
-Video that made me buy one: https://youtu.be/X4blR5Ua3S0
+Manual: https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf  
+Video that made me buy one: https://youtu.be/X4blR5Ua3S0  
 
 
 No Card:
