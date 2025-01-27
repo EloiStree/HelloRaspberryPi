@@ -81,6 +81,10 @@ Then use USB and SD Card (if unlock) to host server when not used.
 ( Saying that because my server don't use a lot's of read/write file.   )
 
 
+## Portable Screen with it
+[![image](https://github.com/user-attachments/assets/d819f2e5-47c4-494d-832d-5861390932af)](https://amzn.to/40wEEP2)
+https://amzn.to/40wEEP2
+
 
 
 ----------------
